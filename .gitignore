@@ -1,0 +1,56 @@
+# ========== Unity生成ファイル ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.stacktrace
+
+# Unity Package Manager
+Packages/manifest.json
+Packages/packages-lock.json
+Packages/com.unity.*
+Packages/package-lock.json
+Packages/PackageCache/
+
+# ========== VS/IDE関連 ==========
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# ========== Unity特殊フォルダ ==========
+Assets/AssetStoreTools*
+
+# ========== Unityメタ情報 ==========
+*.pidb.meta
+*.pdb.meta
+
+# ========== ビルドファイル ==========
+*.apk
+*.unitypackage
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# ========== クラッシュレポート ==========
+sysinfo.txt
+
+# ========== Plastic SCM（使っていない場合） ==========
+.plastic/
+ignore.conf
